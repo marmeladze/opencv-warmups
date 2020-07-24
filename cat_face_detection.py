@@ -3,7 +3,6 @@ import numpy as np
 import cv2
 
 face_cascade = cv2.CascadeClassifier("data/haarcascade_frontalcatface.xml")
-face_cascade_ext = cv2.CascadeClassifier((os.path.dirname(cv2.__file__)+"/data/haarcascade_frontalcatface_extended.xml"))
 
 cap = cv2.VideoCapture(0)
 
