@@ -17,7 +17,7 @@ Cat face detection
 ```
 python cat_face_detection.py
 ```
-![screenshot](data/cat-detect.png)
+![screenshot](data/cat-detect.jpg)
 
 
 Human face detection from live video 
