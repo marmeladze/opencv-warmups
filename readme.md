@@ -3,7 +3,7 @@
 ```
 virtualenv venv
 git clone https://github.com/marmeladze/opencv-warmups.git
-cd src && pip install -r requirements.txt
+cd opencv-warmups && pip install -r requirements.txt
 ```
 
 # Train
