@@ -1,7 +1,8 @@
 # Setup
 
-```
+```sh
 virtualenv venv
+. venv/bin/activate
 git clone https://github.com/marmeladze/opencv-warmups.git
 cd opencv-warmups && pip install -r requirements.txt
 ```
