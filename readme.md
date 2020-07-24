@@ -2,7 +2,7 @@
 
 ```
 virtualenv venv
-git clone [THIS_REPO_URL]
+git clone https://github.com/marmeladze/opencv-warmups.git
 cd src && pip install -r requirements.txt
 ```
 
